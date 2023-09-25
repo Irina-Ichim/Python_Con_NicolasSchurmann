@@ -4,9 +4,9 @@
 
 🐍 Este es un proyecto de Python simple que muestra ejemplos básicos de código y conceptos fundamentales de Python.
 
-## Aprendizaje de hoy
+## Aprendizaje
 
-Hoy aprendimos sobre dos conceptos importantes en programación:
+Aprendimos sobre dos conceptos importantes en programación:
 
 ### Sangría (Indentación)
 
@@ -57,7 +57,7 @@ Python ofrece una variedad de métodos útiles para manipular cadenas de texto:
 
 ### Métodos de Diccionario
 
-.keys(): Devuelve una lista de las claves en un diccionario.
-.values(): Devuelve una lista de los valores en un diccionario.
-.items(): Devuelve una lista de tuplas (clave, valor) en un diccionario.
-.get(): Obtiene el valor asociado a una clave, evitando errores si la clave no existe.
+`.keys()`: Devuelve una lista de las claves en un diccionario.
+`.values()`: Devuelve una lista de los valores en un diccionario.
+`.items()`: Devuelve una lista de tuplas (clave, valor) en un diccionario.
+`.get()`: Obtiene el valor asociado a una clave, evitando errores si la clave no existe.
