@@ -61,3 +61,9 @@ Python ofrece una variedad de métodos útiles para manipular cadenas de texto:
 `.values()`: Devuelve una lista de los valores en un diccionario.
 `.items()`: Devuelve una lista de tuplas (clave, valor) en un diccionario.
 `.get()`: Obtiene el valor asociado a una clave, evitando errores si la clave no existe.
+
+### Secuencias de escape 
+
+`\` y compuestos
+
+### Números, funciones y calculadora
