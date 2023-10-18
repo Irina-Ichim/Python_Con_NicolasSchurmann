@@ -32,8 +32,7 @@
 
 # if gas and (encendido or edad > 17):   # Se evalua primero siempre los parantesis
 #     print("Puedes avanzar")
-    
-    
+       
 gas = False
 encendido = True
 edad = 18
