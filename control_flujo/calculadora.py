@@ -32,4 +32,3 @@ while True:
         break
     print(f"El resultado es {resultado: }")
           
-        
