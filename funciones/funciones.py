@@ -15,3 +15,6 @@ def persona(nombre, ciudad="Barcelona"):
     
 persona("irina", "ichim")
 persona("chanchito")
+
+# argumentos nombrados
+hola(apellido="ichim", nombre="irina")  
