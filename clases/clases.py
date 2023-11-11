@@ -7,4 +7,6 @@ mi_perro = MiPerro()    # mi_perro es una instancia(=objeto)
 mi_perro.habla()        # invocamos el metodo
 print(isinstance(mi_perro, MiPerro))   #isistence se usa para verificar si es una instancia, puede devolver true o false
 print(isinstance(mi_perro, str))
+
+#"self" es simplemente una convención para referirse al objeto actual y permite que los métodos dentro de la clase interactúen con los datos de esa instancia específica.
         
